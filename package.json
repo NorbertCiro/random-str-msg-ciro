@@ -1,0 +1,28 @@
+{
+  "name": "random-str-msg-ciro",
+  "version": "1.1.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NorbertCiro/random-str-msg-ciro.git"
+  },
+  "keywords": [],
+  "author": "Norberto Salazar Brito <salazarbritonorberto@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NorbertCiro/random-str-msg-ciro/issues"
+  },
+  "homepage": "https://github.com/NorbertCiro/random-str-msg-ciro#readme",
+  "bin": {
+    "random-str-msg-ciro": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1",
+    "user": "^0.0.0"
+  }
+}
